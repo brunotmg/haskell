@@ -1,0 +1,3 @@
+
+criaColecao :: Int -> Int -> [Int]
+criaColecao x y = [x..y]

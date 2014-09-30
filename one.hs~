@@ -1,7 +1,7 @@
 -- retorna ultimo elemento da lista
 
-myLast :: [a] -> [a]
-myLast [] = []
+myLast :: [a] -> a
+myLast [] = Nothing
 myLast (x:xs)
-	|null xs = [x]
+	|null xs = x
 	|otherwise = myLast xs

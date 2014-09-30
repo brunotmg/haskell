@@ -1,0 +1,3 @@
+
+replace :: Char -> Int
+replace c = digitToInt c

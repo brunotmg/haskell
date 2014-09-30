@@ -1,0 +1,9 @@
+
+
+mdc :: Int -> Int -> Int
+mdc 0 a = a
+mdc a 0 = a
+mdc x y
+	|x == y = x
+	|x > y = mdc y (mod x y)
+	|otherwise = mdc x (mod y x)

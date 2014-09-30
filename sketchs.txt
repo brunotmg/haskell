@@ -1,0 +1,16 @@
+tenho que receber dois numeros e trablhar o mdc deles
+
+checar qual o maior numero que os divide
+
+se algum deles é 0 , retorna 1
+
+----------------------------------------------------------
+4.
+--list comprehension entre m e n
+
+
+---------------------------------------------------------
+5.
+--use intervals
+
+
