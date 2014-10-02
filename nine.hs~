@@ -1,0 +1,7 @@
+--soma lista de caracteres em hexadecimal
+import Numeric(readInt)
+
+sumListaHex :: [Char] -> Int
+sumListaHex [] = 0
+sumListaHex (a:as) = (readInt a) + (sumListaHex as)
+
