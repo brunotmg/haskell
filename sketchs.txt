@@ -13,4 +13,15 @@ se algum deles é 0 , retorna 1
 5.
 --use intervals
 
+----------------------------------------------------------
 
+6. palindromos
+checar de tras pra frente e de frente pra tras
+
+tenho que saber o tamanho
+-ir até a metade
+
+--------------------------------------------------------
+7.
+
+usar com

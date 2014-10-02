@@ -1,0 +1,10 @@
+--checa se lista eh palindromo
+
+isPal :: [Int] -> Bool
+isPal [] = True
+isPal []
+
+
+
+
+
